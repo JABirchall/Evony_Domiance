@@ -9,3 +9,5 @@ This project will use data provided by the emap project by Daisy and will use da
 Number of members in 1 a state, Flats and a valleys held in a state, members in truce and holiday, honor and City captures.
 
 Using this data, i hope we are able to generate a pretty accurate table of state by state dominance.
+
+The json table will then be used to create a series of graphs, Later along the line i how to make an interactive javascript map.
