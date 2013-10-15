@@ -1,4 +1,11 @@
-Evony_Domiance
+Evony Dominance
 ==============
 
-A complex algorithme to calculate dominace in evony.
+A complex algorithm to calculate dominance in evony.
+
+The idea of this webapp is to generate a JSON table of real time statistics to determine which alliance effectively dominates which state.
+
+This project will use data provided by the emap project by Daisy and will use data like:
+Number of members in 1 a state, Flats and a valleys held in a state, members in truce and holiday, honor and City captures.
+
+Using this data, i hope we are able to generate a pretty accurate table of state by state dominance.
